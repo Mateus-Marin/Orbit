@@ -1,7 +1,8 @@
-# NFT-card
-Um projeto criado por mim apartir de um desafio do frontend mentor, no qual a ideia era desenvolver um NFT-card. Criado por um iniciante que busca sempre progredir.  
+# Orbit
 
-<img src="./src/images/orbit.mp4" alt =" gif do projeto NFT-card" >
+Projeto criado por diversão, bem simple, fazer a terra orbitar o sol e alua orbitar a terra.  
+
+<img src="./src/images/orbit.mp4" alt ="orbit movie" >
 
 ## Tecnologias usadas
 
